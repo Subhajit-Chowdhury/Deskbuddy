@@ -1,1 +1,1 @@
-# Deskbuddy
+# Deskbuddy: I called it as my deskbuddy  &  named it as one of my younger brother & friend's name [Pritam].Anyone could named as they want to call.This code is written in python,using some modules like->pyttsx3,speechRecognition,wikipedia etc. This code is doing speech to text; then text to speech.this code cloud be modified as required.
